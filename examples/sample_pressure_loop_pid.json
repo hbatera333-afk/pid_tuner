@@ -1,0 +1,11 @@
+{
+  "loop_type": "pressure",
+  "controller_type": "PID",
+  "entry_mode": "Kc, Ti, Td",
+  "Kc": 1.237033195020747,
+  "Ti": 18.549999999999997,
+  "Td": 2.7169811320754715,
+  "beta": 1.0,
+  "derivative_filter_n": 10.0,
+  "direct_action": true
+}

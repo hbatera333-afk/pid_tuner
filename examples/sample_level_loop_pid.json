@@ -1,0 +1,11 @@
+{
+  "loop_type": "level",
+  "controller_type": "PI",
+  "entry_mode": "Kc, Ti, Td",
+  "Kc": 1.187888198757764,
+  "Ti": 59.49999999999999,
+  "Td": 0.0,
+  "beta": 1.0,
+  "derivative_filter_n": 10.0,
+  "direct_action": true
+}

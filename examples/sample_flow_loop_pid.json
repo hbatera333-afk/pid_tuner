@@ -1,0 +1,11 @@
+{
+  "loop_type": "flow",
+  "controller_type": "PI",
+  "entry_mode": "Kc, Ti, Td",
+  "Kc": 1.730769230769231,
+  "Ti": 12.6,
+  "Td": 0.0,
+  "beta": 1.0,
+  "derivative_filter_n": 10.0,
+  "direct_action": true
+}
